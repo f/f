@@ -8,8 +8,8 @@ I **wrote a book** about **JavaScript**. I love being part of development of web
 I love **open source development** and I build things on my GitHub profile (here).
 I love **JavaScript** and **Ruby (and RoR)**.
 
-- 💻  [What am I doing about Open Source? **GitHub**](https://github.com/f)
-- 🐦  [Are you a tweeter? **Twitter**](https://twitter.com/fkadev)
-- 🏹  [Tell me about your CV **LinkedIn**](https://linkedin.com/in/fatihkadirakin)
+- 💻  [What am I doing about Open Source? (**GitHub**)](https://github.com/f)
+- 🐦  [Are you a tweeter? (**Twitter**)](https://twitter.com/fkadev)
+- 🏹  [Tell me about your CV (**LinkedIn**)](https://linkedin.com/in/fatihkadirakin)
 
 Do not forget to view my open source projects below 👇🏻
