@@ -12,4 +12,4 @@ I love **JavaScript** and **Ruby (and RoR)**.
 - 🐦  [Are you a tweeter? **Twitter**](https://twitter.com/fkadev)
 - 🏹  [Tell me about your CV **LinkedIn**](https://linkedin.com/in/fatihkadirakin)
 
-Bye!
+Do not forget to view my open source projects below 👇🏻
