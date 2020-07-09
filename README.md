@@ -9,7 +9,7 @@ I love **open source development** and I build things on my GitHub profile (here
 I love **JavaScript** and **Ruby (and RoR)**.
 
 - 💻  [What am I doing about Open Source? (**GitHub**)](https://github.com/f)
-- 🐦  [Are you a tweeter? (**Twitter**)](https://twitter.com/fkadev)
-- 🏹  [Tell me about your CV (**LinkedIn**)](https://linkedin.com/in/fatihkadirakin)
+- 🐦  [What do I think? (**Twitter**)](https://twitter.com/fkadev)
+- 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/fatihkadirakin)
 
 Do not forget to view my open source projects below 👇🏻
