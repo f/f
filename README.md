@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**f/f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **Fatih Kadir Akın**
 
-Here are some ideas to get you started:
+I'm a passionated **software developer** living in **Istanbul, Turkey**, working for [Toolio](https://toolio.com).
+I **wrote a book** about **JavaScript**. I love being part of development of web technologies. I like to **organize conferences and giving talks**.
+I love **open source development** and I build things on my GitHub profile (here).
+I love **JavaScript** and **Ruby (and RoR)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻  [What am I doing about Open Source? **GitHub**](https://github.com/f)
+- 🐦  [Are you a tweeter? **Twitter**](https://twitter.com/fkadev)
+- 🏹  [Tell me about your CV **LinkedIn**](https://linkedin.com/in/fatihkadirakin)
+
+Bye!
+
+P.S. You can see this page with running `npx fka`
