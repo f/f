@@ -1,6 +1,7 @@
-### Hi there 👋
+### `npx fka`
 
-This is **Fatih Kadir Akın**
+
+Hello, this is **Fatih Kadir Akın**
 
 I'm a passionated **software developer** living in **Istanbul, Turkey**, working for [Toolio](https://toolio.com).
 I **wrote a book** about **JavaScript**. I love being part of development of web technologies. I like to **organize conferences and giving talks**.
@@ -12,5 +13,3 @@ I love **JavaScript** and **Ruby (and RoR)**.
 - 🏹  [Tell me about your CV **LinkedIn**](https://linkedin.com/in/fatihkadirakin)
 
 Bye!
-
-P.S. You can see this page with running `npx fka`
