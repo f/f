@@ -13,3 +13,5 @@ I love **JavaScript** and **Ruby (and RoR)**.
 - 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/fatihkadirakin)
 
 Do not forget to view my open source projects below 👇🏻
+
+> P.S. To read this intro on terminal, just run `npx fka`. But why? -- why not? 🤷🏻‍♂️
