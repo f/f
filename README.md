@@ -10,6 +10,7 @@ I love **JavaScript** and **Ruby (and RoR)**.
 
 - 💻  [What am I doing about Open Source? (**GitHub**, you're already here)](https://github.com/f)
 - 𝕏  [What do I think? (**X**)](https://x.com/fkadev)
+- 🦋 [What do I also think? (**Bluesky**)](https://bsky.app/profile/fka.dev)
 - 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://linkedin.com/in/fatihkadirakin)
 
 Do not forget to view my open source projects below 👇🏻
