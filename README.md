@@ -1,7 +1,7 @@
 ### `npx fka`
 
 
-Hello, this is **Fatih Kadir Akın**, award-winning [GitHub Star ⭐️](https://stars.github.com/profiles/f/).
+Hello, this is **Fatih Kadir Akın**, a [GitHub Star ⭐️](https://stars.github.com/profiles/f/).
 
 I'm a passionate **software developer** living in **Istanbul, Turkey**, working for [Teknasyon](https://teknasyon.com) as the **DevRel Manager**.
 I **wrote a book** about **JavaScript**. I love being part of development of web technologies. I like to **organize conferences and give talks**.
